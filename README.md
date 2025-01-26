@@ -27,6 +27,13 @@ gcloud compute ssh nyu-dataproc-m --project=hpc-dataproc-19b8 --zone=us-central1
 
 Then run a jupyter notebook session
 
+# Contributors
+- Preetham Rakshith Prakash
+- Riya Garg
+- Yugesh Panta
+
+
+
 ```
 jupyter notebook
 ```
