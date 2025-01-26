@@ -27,10 +27,6 @@ gcloud compute ssh nyu-dataproc-m --project=hpc-dataproc-19b8 --zone=us-central1
 
 Then run a jupyter notebook session
 
-# Contributors
-- Preetham Rakshith Prakash
-- Riya Garg
-- Yugesh Panta
 
 
 
@@ -45,3 +41,8 @@ gcloud compute ssh nyu-dataproc-m --project hpc-dataproc-19b8 --zone us-central1
 ```
 
 Now, navigate to localhost:PORT in your browser on the local device to access the notebook session running on Dataproc, open the notebook and run your code.
+
+# Contributors
+- Preetham Rakshith Prakash
+- Riya Garg
+- Yugesh Panta
